@@ -15,7 +15,7 @@ FUNCIONAMENTO:
 4. Solicita a base do retângulo:
    System.out.print("Digite a base do retângulo: ");
    double base = scanner.nextDouble();
-   // O usu´rio digita um número (ex: 5.0), que é armazenado na variável base.
+   // O usuário digita um número (ex: 5.0), que é armazenado na variável base.
 
 5. Solicita a altura do retângulo:
    System.out.print("Digite a altura do retÂngulo: ");
